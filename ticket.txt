@@ -1,0 +1,9 @@
+	 bhub_rajdhani - 22812
+Serial no.	PNR	Name	Age	Gender	Seat No.
+1	Shikha Panwar	19	F	1
+2	Subham Rajgaria	19	M	2
+3	Esha Lath	20	F	3
+
+PNR= 122812001
+PNR= 122812001
+PNR= 122812001
